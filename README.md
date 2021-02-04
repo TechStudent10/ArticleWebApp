@@ -1,5 +1,5 @@
 # AritcleWebApp
-A A project using Flask and React to make a web app to create and view articles.
+A project using Flask and React to make a web app to create and view articles.
 
 ## Requirements
 - Python 3
